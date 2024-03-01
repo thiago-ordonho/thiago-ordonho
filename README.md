@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiago-ordonho
 - 👀 I’m interested in learning and developing
 - 🌱 I’m currently learning "programming collective intelligence"
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on game development or web APIs
 - 📫 How to reach me: leave a comment on my profile
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I have two cats
